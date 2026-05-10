@@ -35,11 +35,11 @@ GPSでは判定しにくい机や部屋単位の近接判定に対して，BLE�
 
 ### タイトル画面
 
-![タイトル画面](images/burger_title.png)
+![タイトル画面](images/burger_title.jpg)
 
 ### チェックイン画面
 
-![チェックイン画面](images/burger_checkin.png)
+![チェックイン画面](images/burger_checkin.jpg)
 
 
 ## 工夫した点
